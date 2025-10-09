@@ -23,11 +23,13 @@ header {
     text-align: center;
 }
 
-footer {
+.footer {
     background-color: var(--color);
     padding: var(--pading-base)
 }
-
+footer {
+    text-align: start;
+}
 #about {
     background-color: red;
     padding: var(--pading-base);
